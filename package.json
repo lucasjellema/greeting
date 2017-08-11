@@ -1,0 +1,19 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "Simple Node application that will greet visitors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://lucas.jellema%40amis.nl@developer.us2.oraclecloud.com/developer73410-a512292/s/developer73410-a512292_greeting_19451/scm/greeting.git"
+  },
+  "keywords": [
+    "greeting",
+    "node"
+  ],
+  "author": "Lucas Jellema",
+  "license": "ISC"
+}
