@@ -15,5 +15,8 @@
     "node"
   ],
   "author": "Lucas Jellema",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^3.1.0"
+  }
 }

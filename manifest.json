@@ -3,6 +3,7 @@
     "majorVersion":"6"
   },
   "command": "node app.js",
+  "isClustered":"true",
   "release": {},
   "notes": "A REST API (GET requests) to provide a friendly greeting"
 }
